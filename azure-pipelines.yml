@@ -15,7 +15,7 @@ variables:
   webAppName: 'eagunuApp'
 
   # Environment name
-  environmentName: ''
+  environmentName: 'eagunuApp'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
